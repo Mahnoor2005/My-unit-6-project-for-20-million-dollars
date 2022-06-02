@@ -1,0 +1,90 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: #009300;
+}
+
+.Beginning {
+    background-color: #009300;
+}
+
+.Angry {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #C2C1A5;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #C2C1A5;
+    font-family: Koulean;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    width: 400px;
+    height: 400px;
+}
+
+.Money-Pic {
+    width: 400px;
+    height: 400px;
+}
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+
+}
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+.firstImage {
+    border: 5px;
+    color: black;
+    border-style: solid;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+    background-color: #C2C1A5;
+}
+
+h2 {
+    background-color: #C2C1A5;
+}
